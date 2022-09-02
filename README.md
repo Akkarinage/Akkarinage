@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akkarinage&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akkarinage&layout=compact&theme=dracula"></a>
 
-
-![Akkarinage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akkarinage&show_icons=true&count_private=true&theme=dracula)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akkarinage&show_icons=true&count_private=true&theme=dracula"></a>
 
 
 [![Akkarinage's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Akkarinage&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
